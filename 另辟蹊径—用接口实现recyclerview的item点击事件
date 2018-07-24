@@ -1,4 +1,4 @@
-通过接口将点击事件的处理转移到 Activity 中而不是在 Adapter 中显然是一种更好的方式
+### 通过接口将点击事件的处理转移到 Activity 中而不是在 Adapter 中显然是一种更好的方式
 首先定义一个接口：
 public interface OnItemClickListener{
    void onItemClick(View v, int position); 
