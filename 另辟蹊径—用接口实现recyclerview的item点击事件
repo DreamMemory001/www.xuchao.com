@@ -43,4 +43,5 @@ item中的增加和删除：
 		 mDramaList.remove(p);
 		 notifyItemRemoved(p);
 		 }
+		 
  }
