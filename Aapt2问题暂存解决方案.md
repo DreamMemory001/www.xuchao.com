@@ -9,7 +9,7 @@
 # 解决方案二
 
 如果你在 AndroidStudio3.0之后出现Aapt2 错误：
-![错误展示]（/img/aapt2.png）
+![错误展示]（/img/appt2.png）
 类似上述问题
 一般是在用户目录下，C:\Users\用户名\.gradle）中含有中文名称。
 那么最好的解决问题的方法就是把.gradle进行迁移
